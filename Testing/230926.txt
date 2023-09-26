@@ -1,0 +1,2 @@
+el boton de compra para todos los productos agregados entre el 20 y el 24 de semptiembre de 2023, no responde. 
+Al hacer click, el mismo no acciona. 
